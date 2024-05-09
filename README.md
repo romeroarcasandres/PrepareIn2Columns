@@ -9,7 +9,7 @@ The macro performs the following tasks:
 * Opens a dialog box for the user to select an existing Word document (.docx or .doc format).
 * Copies the content of the selected document into both columns of the table in the new document.
 * Cleans up empty rows from the table.
-* Hides the selected text in the first column.
+* Hides the text in the first column.
 * Displays a message box indicating the completion of the process.
 
 ## Requirements
