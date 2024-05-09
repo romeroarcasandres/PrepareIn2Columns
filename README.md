@@ -13,7 +13,7 @@ The macro performs the following tasks:
 * Displays a message box indicating the completion of the process.
 
 ## Requirements
-MS Word VBA for Applications
+Microsoft Word -  Visual Basic for Applications
 
 ## Files
 PrepareIn2Columns.bas
